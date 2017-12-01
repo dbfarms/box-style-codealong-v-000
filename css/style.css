@@ -178,6 +178,11 @@ header {
   font: 1em "Trebuchet MS", Arial, sans-serif;
 }
 
+#navar nav a.selected {
+  background: #ccc;
+  color: white;
+}
+
 
 
 /*////////// LOGO //////////*/
